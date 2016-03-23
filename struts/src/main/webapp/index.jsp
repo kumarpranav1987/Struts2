@@ -4,9 +4,9 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>Insert title here</title>
+<title>Struts</title>
 </head>
 <body>
-Hello JSP
+<h2>Hello Struts</h2>
 </body>
 </html>
